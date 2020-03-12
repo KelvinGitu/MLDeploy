@@ -10,7 +10,7 @@ These instructions will get you a copy of the code up and running on your local 
 
 Things you will need to bring the project up on your local machine
 ```
-Docker (Not necessarily but adviced)
+Docker (Not necessarily but advised)
 Jupyter notebook
 Python3
 Text editor
@@ -104,7 +104,7 @@ Go to [http://localhost:4000](http://localhost:4000) to find the web app or api
 
 ## Deployment
 
-Procedure on how to deploy on heroku as a live system. I choosed installation through the command line because it was easier for me than the web based view.
+Procedure on how to deploy on heroku as a live system. I chose installation through the command line because it was easier for me than the web based view.
 
     install heroku cli for windows and linux users
 ```
